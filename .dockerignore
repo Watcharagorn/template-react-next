@@ -1,0 +1,6 @@
+tests/
+.coverage
+logs/
+.env
+node_modules
+.next
